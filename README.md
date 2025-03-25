@@ -91,9 +91,10 @@ Collections of  papers and codes of hand-object interaction (HOI).
 22. ManiDext: Hand-Object Manipulation Synthesis via Continuous Correspondence Embeddings and Residual-Guided Diffusion. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2409.09300) [[Project Page]](https://jiajunzhang16.github.io/manidext/)
    
 ## Generate HOI Images Videos
-1. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2403.12011) [[Code]](https://github.com/Mq-Zhang1/HOIDiffusion) [[Project Page]](https://mq-zhang1.github.io/HOIDiffusion/)
-2. ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.16212)
-3. TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2503.11423)
+1. Affordance Diffusion: Synthesizing Hand-Object Interactions. [CVPR 2023] [[Paper]](https://arxiv.org/pdf/2303.12538) [[Code]](https://github.com/NVlabs/affordance_diffusion) [[Project Page]](https://judyye.github.io/affordiffusion-www/)
+2. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2403.12011) [[Code]](https://github.com/Mq-Zhang1/HOIDiffusion) [[Project Page]](https://mq-zhang1.github.io/HOIDiffusion/)
+3. ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.16212)
+4. TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2503.11423)
 
 ## HOI Augmentation
 1. HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2501.02845)
