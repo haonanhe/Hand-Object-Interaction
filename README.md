@@ -10,9 +10,11 @@ Collections of  papers and codes of hand-object interaction (HOI).
 4. DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [CVPR 2021] [[Paper]](https://arxiv.org/pdf/2104.04631) [[Code]](https://github.com/NVlabs/dex-ycb-toolkit) [[Project Page]](https://dex-ycb.github.io/)
 5. ARCTIC: A dataset for dexterous bimanual hand object manipulation. [ECCV 2024] [[Paper]](https://download.is.tue.mpg.de/arctic/arctic_april_24.pdf) [[Code]](https://github.com/zc-alexfan/arctic) [[Project Page]](https://arctic.is.tue.mpg.de/)
 6. Introducing hot3d: An egocentric dataset for 3d hand and object tracking. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.19167) [[Code]](https://github.com/facebookresearch/hot3d) [[Project Page]](https://facebookresearch.github.io/hot3d/)
+7. GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.04244)
 
 ## Dexterous Dataset
 1. DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation. [ICRA 2023] [[Paper]](https://arxiv.org/pdf/2210.02697) [[Code]](https://github.com/PKU-EPIC/DexGraspNet) [[Project Page]](https://pku-epic.github.io/DexGraspNet/)
+2. RealDex: Towards Human-like Grasping for Robotic Dexterous Hand. [IJCAI 2024] [[Paper]](https://arxiv.org/pdf/2402.13853) [[Code]](https://github.com/4DVLab/RealDex) [[Project Page]](https://4dvlab.github.io/RealDex_page/)
 
 ## Hand Motion Reconstruction
 1. End-to-End Human Pose and Mesh Reconstruction with Transformers. [CVPR 2021] [[Paper]](https://arxiv.org/pdf/2012.09760) [[Code]](https://github.com/microsoft/MeshTransformer?tab=readme-ov-file)
@@ -62,3 +64,4 @@ Collections of  papers and codes of hand-object interaction (HOI).
 ## Object-centric HOI Synthesis
 
 ## Human Hand to Robotics Manipulation
+1. Object-Centric Dexterous Manipulation from Human Motion Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2411.04005) [[Code]](https://github.com/cypypccpy/ObjDexEnvs) [[Project Page]](https://cypypccpy.github.io/obj-dex.github.io/)
