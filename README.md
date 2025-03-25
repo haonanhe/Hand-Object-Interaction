@@ -5,12 +5,18 @@ Collections of  papers and codes of hand-object interaction (HOI).
 
 ## HOI Dataset
 1. Freihand: A dataset for markerless capture of hand pose and shape from single rgb images. [ICCV 2019] [[Paper]](https://arxiv.org/pdf/1909.04349) [[Code]](https://github.com/lmb-freiburg/freihand) [[Project Page]](https://lmb.informatik.uni-freiburg.de/projects/freihand/)
-2. HOnnotate: A method for 3D Annotation of Hand and Object Poses. [CVPR 2020] [[Paper]](https://arxiv.org/pdf/1907.01481) [[Code]](https://github.com/shreyashampali/HOnnotate?tab=readme-ov-file) [[Project Page]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/)
-3. ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [ECCV 2020] [[Paper]](https://arxiv.org/pdf/2007.09545) [[Code]](https://github.com/facebookresearch/ContactPose) [[Project Page]](https://contactpose.cc.gatech.edu/)
-4. DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [CVPR 2021] [[Paper]](https://arxiv.org/pdf/2104.04631) [[Code]](https://github.com/NVlabs/dex-ycb-toolkit) [[Project Page]](https://dex-ycb.github.io/)
-5. ARCTIC: A dataset for dexterous bimanual hand object manipulation. [ECCV 2024] [[Paper]](https://download.is.tue.mpg.de/arctic/arctic_april_24.pdf) [[Code]](https://github.com/zc-alexfan/arctic) [[Project Page]](https://arctic.is.tue.mpg.de/)
-6. Introducing hot3d: An egocentric dataset for 3d hand and object tracking. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.19167) [[Code]](https://github.com/facebookresearch/hot3d) [[Project Page]](https://facebookresearch.github.io/hot3d/)
-7. GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.04244)
+2. Learning Joint Reconstruction of Hands and Manipulated Objects. [CVPR 2019] [[Paper]](https://arxiv.org/pdf/1904.05767) [[Code]](https://github.com/hassony2/obman_train) [[Project Page]](https://hassony2.github.io/obman)
+3. HOnnotate: A method for 3D Annotation of Hand and Object Poses. [CVPR 2020] [[Paper]](https://arxiv.org/pdf/1907.01481) [[Code]](https://github.com/shreyashampali/HOnnotate?tab=readme-ov-file) [[Project Page]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/)
+4. ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [ECCV 2020] [[Paper]](https://arxiv.org/pdf/2007.09545) [[Code]](https://github.com/facebookresearch/ContactPose) [[Project Page]](https://contactpose.cc.gatech.edu/)
+5. GRAB: A Dataset of Whole-Body Human Grasping of Objects. [ECCV 2020] [[Paper]](https://arxiv.org/pdf/2008.11200) [[Code]](https://github.com/otaheri/GRAB) [[Project Page]](https://grab.is.tue.mpg.de/)
+6. DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [CVPR 2021] [[Paper]](https://arxiv.org/pdf/2104.04631) [[Code]](https://github.com/NVlabs/dex-ycb-toolkit) [[Project Page]](https://dex-ycb.github.io/)
+7. ARCTIC: A dataset for dexterous bimanual hand object manipulation. [ECCV 2024] [[Paper]](https://download.is.tue.mpg.de/arctic/arctic_april_24.pdf) [[Code]](https://github.com/zc-alexfan/arctic) [[Project Page]](https://arctic.is.tue.mpg.de/)
+8. InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction. [IJCV 2024] [[Project Page]](https://intercap.is.tue.mpg.de/)
+9. ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation. [3DV 2024 Oral] [[Paper]](https://arxiv.org/pdf/2305.01618) [[Project Page]](https://zehaozhu.github.io/ContactArt/)
+10. GraspXL: Generating Grasping Motions for Diverse Objects at Scale. [ECCV 2024] [[Paper]](https://arxiv.org/pdf/2403.19649) [[Code]](https://github.com/zdchan/GraspXL) [[Project Page]](https://eth-ait.github.io/graspxl/)
+11. SemGrasp: Semantic Grasp Generation via Language Aligned Discretization. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2404.03590) [[Project Page]](https://kailinli.github.io/SemGrasp/)
+12. Introducing hot3d: An egocentric dataset for 3d hand and object tracking. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.19167) [[Code]](https://github.com/facebookresearch/hot3d) [[Project Page]](https://facebookresearch.github.io/hot3d/)
+13. GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.04244)
 
 ## Dexterous Dataset
 1. DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation. [ICRA 2023] [[Paper]](https://arxiv.org/pdf/2210.02697) [[Code]](https://github.com/PKU-EPIC/DexGraspNet) [[Project Page]](https://pku-epic.github.io/DexGraspNet/)
@@ -34,12 +40,13 @@ Collections of  papers and codes of hand-object interaction (HOI).
 ## Reconstruct Hand/Object from RGB Images/Videos
 1. What's in your hands? 3D Reconstruction of Generic Objects in Hands. [CVPR 2022] [[Paper]](https://arxiv.org/pdf/2204.07153) [[Code]](https://github.com/JudyYe/ihoi) [[Project Page]](https://judyye.github.io/ihoi/)
 2. AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [ECCV 2022] [[Paper]](https://arxiv.org/pdf/2207.12909) [[Code]](https://github.com/zerchen/AlignSDF) [[Project Page]](https://zerchen.github.io/projects/alignsdf.html)
-3. Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips. [ICCV 2023 Oral] [[Paper]](https://arxiv.org/pdf/2309.05663) [[Code]](https://github.com/JudyYe/diffhoi_v2) [[Project Page]](https://judyye.github.io/diffhoi-www/)
-4. gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction. [CVPR 2023] [[Paper]](https://arxiv.org/pdf/2304.11970) [[Code]](https://github.com/zerchen/gSDF) [[Project Page]](https://zerchen.github.io/projects/gsdf.html)
-5. HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2311.18448) [[Code]](https://github.com/zc-alexfan/hold) [[Project Page]](https://zc-alexfan.github.io/hold)
-6. MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2310.11696) [[Code]](https://github.com/ZhangCYG/MOHO)
-7. NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2402.05532)
-8. EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.14280) [[Code]](https://github.com/lym29/EasyHOI) [[Project Page]](https://lym29.github.io/EasyHOI-page/)
+3. Reconstructing Hand-Held Objects from Monocular Video. [Siggraph Asia 2022 Conference Track] [[Paper]](https://arxiv.org/pdf/2211.16835) [[Code]](https://github.com/dihuangdh/HHOR) [[Project Page]](https://dihuangdh.github.io/hhor/)
+4. Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips. [ICCV 2023 Oral] [[Paper]](https://arxiv.org/pdf/2309.05663) [[Code]](https://github.com/JudyYe/diffhoi_v2) [[Project Page]](https://judyye.github.io/diffhoi-www/)
+5. gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction. [CVPR 2023] [[Paper]](https://arxiv.org/pdf/2304.11970) [[Code]](https://github.com/zerchen/gSDF) [[Project Page]](https://zerchen.github.io/projects/gsdf.html)
+6. HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2311.18448) [[Code]](https://github.com/zc-alexfan/hold) [[Project Page]](https://zc-alexfan.github.io/hold)
+7. MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2310.11696) [[Code]](https://github.com/ZhangCYG/MOHO)
+8. NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2402.05532)
+9. EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.14280) [[Code]](https://github.com/lym29/EasyHOI) [[Project Page]](https://lym29.github.io/EasyHOI-page/)
 
 ## Reconstruct Hand/Object from RGB-D Images/Videos
 1. Single Depth View Based Real-Time Reconstruction of Hand-Object Interactions. [ACM Transactions on Graphics (TOG) 2021] [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3451341) 
@@ -61,7 +68,27 @@ Collections of  papers and codes of hand-object interaction (HOI).
 ## HOI Prediction
 1. HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2412.13187) [[Code]](https://github.com/Kami-code/HandsOnVLM-release) [[Project Page]](https://www.chenbao.tech/handsonvlm/)
 
-## Object-centric HOI Synthesis
+## Hand/Object Motion Synthesis
+1. D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions. [CVPR 2022] [[Paper]](https://arxiv.org/pdf/2112.03028) [[Code]](https://github.com/christsa/dgrasp) [[Project Page]](https://eth-ait.github.io/d-grasp/)
+2. CAMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis. [CVPR 2023] [[Paper]](https://arxiv.org/pdf/2303.15469) [[Code]](https://github.com/cams-hoi/CAMS) [[Project Page]](https://cams-hoi.github.io/)
+3. SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers. [arxiv 2023] [[Paper]](https://arxiv.org/pdf/2311.05599)
+4. Physically Plausible Full-Body Hand-Object Interaction Synthesis. [arxiv 2023] [[Paper]](https://arxiv.org/pdf/2309.07907)
+5. IMoS: Intent-Driven Full-Body Motion Synthesis for Human-Object Interactions. [EUROGRAPHICS 2023] [[Paper]](https://arxiv.org/pdf/2212.07555) [[Code]](https://github.com/anindita127/IMoS) [[Project Page]](https://vcai.mpi-inf.mpg.de/projects/IMoS/)
+6. MACS: Mass Conditioned 3D Hand and Object Motion Synthesis. [3DV 2024] [[Paper]](https://arxiv.org/pdf/2312.14929) [[Project Page] ](https://vcai.mpi-inf.mpg.de/projects/MACS/)
+7. FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance. [SIGGRAPH Asia 2024] [[Paper]](https://arxiv.org/pdf/2410.05791) [[Project Page]](https://for-elise.github.io/)
+8. DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions. [SIGGRAPH Asia 2024] [[Paper]](https://arxiv.org/pdf/2403.17827) [[Project Page]](https://diffh2o.github.io/)
+9. Controllable Human-Object Interaction Synthesis. [ECCV 2024] [[Paper]](https://arxiv.org/pdf/2312.03913) [[Code] ](https://github.com/lijiaman/chois_release) [[Project Page]](https://lijiaman.github.io/projects/chois/)
+10. UGG: Unified Generative Grasping. [ECCV 2024] [[Paper]](https://arxiv.org/pdf/2311.16917) [[Code]](https://github.com/Jiaxin-Lu/ugg) [[Project Page]](https://jiaxin-lu.github.io/ugg/)
+11. GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency. [3DV 2024] [[Paper]](https://arxiv.org/pdf/2308.11617) [[Code]](https://github.com/otaheri/GRIP) [[Project Page]](https://grip.is.tue.mpg.de/)
+12. GEARS: Local Geometry-aware Hand-object Interaction Synthesis. [CVPR 2024] [[Paper]](https://virtualhumans.mpi-inf.mpg.de/papers/zhou24gears/gears.pdf) [[Code]](https://github.com/kzhou23/gears) [[Project Page]](https://virtualhumans.mpi-inf.mpg.de/gears/)
+13. G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2404.12383) [[Code]](https://github.com/JudyYe/ghop) [[Project Page]](https://judyye.github.io/ghop-www/)
+14. ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation. [3DV 2024] [[Paper]](https://arxiv.org/pdf/2309.03891) [[Code]](https://github.com/zdchan/artigrasp) [[Project Page]](https://eth-ait.github.io/artigrasp/)
+15. Human-Object Interaction from Human-Level Instructions. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2406.17840)
+16. SemGrasp: Semantic Grasp Generation via Language Aligned Discretization. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2404.03590) [[Project Page]](https://kailinli.github.io/SemGrasp/)
+17. ManiDext: Hand-Object Manipulation Synthesis via Continuous Correspondence Embeddings and Residual-Guided Diffusion. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2409.09300) [[Project Page]](https://jiajunzhang16.github.io/manidext/)
+18. GraspXL: Generating Grasping Motions for Diverse Objects at Scale. [ECCV 2024] [[Paper]](https://arxiv.org/pdf/2403.19649) [[Code]](https://github.com/zdchan/GraspXL) [[Project Page]](https://eth-ait.github.io/graspxl/)
+19. Omnigrasp: Grasping Diverse Objects with Simulated Humanoids. [NeurIPS 2024] [[Paper]](https://arxiv.org/pdf/2407.11385) [[Code]](https://github.com/ZhengyiLuo/Omnigrasp) [[Project Page]](https://www.zhengyiluo.com/Omnigrasp-Site/)
+20. Task-Oriented Human-Object Interactions Generation with Implicit Neural Representations. [WACV 2024] [[Paper]](https://arxiv.org/pdf/2303.13129)
 
 ## Human Hand to Robotics Manipulation
 1. Object-Centric Dexterous Manipulation from Human Motion Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2411.04005) [[Code]](https://github.com/cypypccpy/ObjDexEnvs) [[Project Page]](https://cypypccpy.github.io/obj-dex.github.io/)
