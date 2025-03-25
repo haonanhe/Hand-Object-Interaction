@@ -52,21 +52,6 @@ Collections of  papers and codes of hand-object interaction (HOI).
 1. Single Depth View Based Real-Time Reconstruction of Hand-Object Interactions. [ACM Transactions on Graphics (TOG) 2021] [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3451341) 
 2. Physical Interaction: Reconstructing Hand-object Interactions with Physics. [SIGGRAPH Asia 2022 Conference] [[Paper]](https://arxiv.org/pdf/2209.10833) [[Code]](https://github.com/hu-hy17/PhysInteraction)
 3. BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects. [CVPR 2023] [[Paper]](https://arxiv.org/pdf/2303.14158) [[Code]](https://github.com/NVlabs/BundleSDF) [[Project Page]](https://bundlesdf.github.io/)
-   
-## Generate HOI Images/Videos
-1. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2403.12011) [[Code]](https://github.com/Mq-Zhang1/HOIDiffusion) [[Project Page]](https://mq-zhang1.github.io/HOIDiffusion/)
-2. ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.16212)
-3. TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2503.11423)
-
-## HOI Augmentation
-1. HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2501.02845)
-
-## HOI Reenactment
-1. HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness. [NeurIPS 2024] [[Paper]](https://arxiv.org/pdf/2406.07754) [[Code]](https://github.com/zihuixue/HOISwap) [[Project Page]](https://vision.cs.utexas.edu/projects/HOI-Swap/)
-2. Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2503.16942) [[Project Page]](https://fyycs.github.io/Re-HOLD/)
-
-## HOI Prediction
-1. HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2412.13187) [[Code]](https://github.com/Kami-code/HandsOnVLM-release) [[Project Page]](https://www.chenbao.tech/handsonvlm/)
 
 ## Hand/Object Motion Synthesis
 1. D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions. [CVPR 2022] [[Paper]](https://arxiv.org/pdf/2112.03028) [[Code]](https://github.com/christsa/dgrasp) [[Project Page]](https://eth-ait.github.io/d-grasp/)
@@ -88,7 +73,23 @@ Collections of  papers and codes of hand-object interaction (HOI).
 17. ManiDext: Hand-Object Manipulation Synthesis via Continuous Correspondence Embeddings and Residual-Guided Diffusion. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2409.09300) [[Project Page]](https://jiajunzhang16.github.io/manidext/)
 18. GraspXL: Generating Grasping Motions for Diverse Objects at Scale. [ECCV 2024] [[Paper]](https://arxiv.org/pdf/2403.19649) [[Code]](https://github.com/zdchan/GraspXL) [[Project Page]](https://eth-ait.github.io/graspxl/)
 19. Omnigrasp: Grasping Diverse Objects with Simulated Humanoids. [NeurIPS 2024] [[Paper]](https://arxiv.org/pdf/2407.11385) [[Code]](https://github.com/ZhengyiLuo/Omnigrasp) [[Project Page]](https://www.zhengyiluo.com/Omnigrasp-Site/)
-20. Task-Oriented Human-Object Interactions Generation with Implicit Neural Representations. [WACV 2024] [[Paper]](https://arxiv.org/pdf/2303.13129)
+20. Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2404.00562v2) [[Code] ](https://github.com/JunukCha/Text2HOI) [[Project Page]](https://junukcha.github.io/project/text2hoi/)
+21. Task-Oriented Human-Object Interactions Generation with Implicit Neural Representations. [WACV 2024] [[Paper]](https://arxiv.org/pdf/2303.13129)
+   
+## Generate HOI Images/Videos
+1. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2403.12011) [[Code]](https://github.com/Mq-Zhang1/HOIDiffusion) [[Project Page]](https://mq-zhang1.github.io/HOIDiffusion/)
+2. ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.16212)
+3. TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2503.11423)
+
+## HOI Augmentation
+1. HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2501.02845)
+
+## HOI Reenactment
+1. HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness. [NeurIPS 2024] [[Paper]](https://arxiv.org/pdf/2406.07754) [[Code]](https://github.com/zihuixue/HOISwap) [[Project Page]](https://vision.cs.utexas.edu/projects/HOI-Swap/)
+2. Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2503.16942) [[Project Page]](https://fyycs.github.io/Re-HOLD/)
+
+## HOI Prediction
+1. HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2412.13187) [[Code]](https://github.com/Kami-code/HandsOnVLM-release) [[Project Page]](https://www.chenbao.tech/handsonvlm/)
 
 ## Human Hand to Robotics Manipulation
 1. Object-Centric Dexterous Manipulation from Human Motion Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2411.04005) [[Code]](https://github.com/cypypccpy/ObjDexEnvs) [[Project Page]](https://cypypccpy.github.io/obj-dex.github.io/)
