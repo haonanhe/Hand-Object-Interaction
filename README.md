@@ -1,7 +1,20 @@
 # Hand-Object-Interaction
 Collections of  papers and codes of hand-object interaction (HOI). 
 
-[CVPR 2024] [Paper] [Code] [Project Page]
+* [HOI Dataset](#hoi-dataset)
+* [Dexterous Dataset](#dexterous-dataset)
+* [Hand Motion Reconstruction](#hand-motion-reconstruction)
+* [Hand Motion Prior](#hand-motion-prior)
+* [Hand Motion Refinement](#hand-motion-refinement)
+* [Reconstruct Hand Object from RGB Images Videos](#reconstruct-hand-object-from-rgb-images-videos)
+* [Reconstruct Hand Object from RGB-D Images Videos](#reconstruct-hand-object-from-rgb-d-images-videos)
+* [Hand Object Motion Synthesis](#hand-object-motion-synthesis)
+* [Generate HOI Images Videos](#generate-hoi-images-videos)
+* [HOI Augmentation](#hoi-augmentation)
+* [HOI Reenactment](#hoi-reenactment)
+* [HOI Prediction](#hoi-prediction)
+* [Human Hand to Robotics Manipulation](#human-hand-to-robotics-manipulation)
+
 
 ## HOI Dataset
 1. Freihand: A dataset for markerless capture of hand pose and shape from single rgb images. [ICCV 2019] [[Paper]](https://arxiv.org/pdf/1909.04349) [[Code]](https://github.com/lmb-freiburg/freihand) [[Project Page]](https://lmb.informatik.uni-freiburg.de/projects/freihand/)
@@ -37,7 +50,7 @@ Collections of  papers and codes of hand-object interaction (HOI).
 2. GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion. [ICLR 2024] [[Paper]](https://arxiv.org/pdf/2402.14810) [[Code]](https://github.com/Meowuu7/GeneOH-Diffusion) [[Project Page]](https://meowuu7.github.io/GeneOH-Diffusion/)
 3. Physics-aware Hand-object Interaction Denoising. [CVPR 2024] [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Physics-Aware_Hand-Object_Interaction_Denoising_CVPR_2024_paper.pdf)
 
-## Reconstruct Hand/Object from RGB Images/Videos
+## Reconstruct Hand Object from RGB Images Videos
 1. What's in your hands? 3D Reconstruction of Generic Objects in Hands. [CVPR 2022] [[Paper]](https://arxiv.org/pdf/2204.07153) [[Code]](https://github.com/JudyYe/ihoi) [[Project Page]](https://judyye.github.io/ihoi/)
 2. AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [ECCV 2022] [[Paper]](https://arxiv.org/pdf/2207.12909) [[Code]](https://github.com/zerchen/AlignSDF) [[Project Page]](https://zerchen.github.io/projects/alignsdf.html)
 3. Reconstructing Hand-Held Objects from Monocular Video. [Siggraph Asia 2022 Conference Track] [[Paper]](https://arxiv.org/pdf/2211.16835) [[Code]](https://github.com/dihuangdh/HHOR) [[Project Page]](https://dihuangdh.github.io/hhor/)
@@ -48,12 +61,12 @@ Collections of  papers and codes of hand-object interaction (HOI).
 8. NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2402.05532)
 9. EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.14280) [[Code]](https://github.com/lym29/EasyHOI) [[Project Page]](https://lym29.github.io/EasyHOI-page/)
 
-## Reconstruct Hand/Object from RGB-D Images/Videos
+## Reconstruct Hand Object from RGB-D Images Videos
 1. Single Depth View Based Real-Time Reconstruction of Hand-Object Interactions. [ACM Transactions on Graphics (TOG) 2021] [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3451341) 
 2. Physical Interaction: Reconstructing Hand-object Interactions with Physics. [SIGGRAPH Asia 2022 Conference] [[Paper]](https://arxiv.org/pdf/2209.10833) [[Code]](https://github.com/hu-hy17/PhysInteraction)
 3. BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects. [CVPR 2023] [[Paper]](https://arxiv.org/pdf/2303.14158) [[Code]](https://github.com/NVlabs/BundleSDF) [[Project Page]](https://bundlesdf.github.io/)
 
-## Hand/Object Motion Synthesis
+## Hand Object Motion Synthesis
 1. D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions. [CVPR 2022] [[Paper]](https://arxiv.org/pdf/2112.03028) [[Code]](https://github.com/christsa/dgrasp) [[Project Page]](https://eth-ait.github.io/d-grasp/)
 2. CAMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis. [CVPR 2023] [[Paper]](https://arxiv.org/pdf/2303.15469) [[Code]](https://github.com/cams-hoi/CAMS) [[Project Page]](https://cams-hoi.github.io/)
 3. SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers. [arxiv 2023] [[Paper]](https://arxiv.org/pdf/2311.05599)
@@ -76,7 +89,7 @@ Collections of  papers and codes of hand-object interaction (HOI).
 20. SemGrasp: Semantic Grasp Generation via Language Aligned Discretization. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2404.03590) [[Project Page]](https://kailinli.github.io/SemGrasp/)
 21. ManiDext: Hand-Object Manipulation Synthesis via Continuous Correspondence Embeddings and Residual-Guided Diffusion. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2409.09300) [[Project Page]](https://jiajunzhang16.github.io/manidext/)
    
-## Generate HOI Images/Videos
+## Generate HOI Images Videos
 1. HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2403.12011) [[Code]](https://github.com/Mq-Zhang1/HOIDiffusion) [[Project Page]](https://mq-zhang1.github.io/HOIDiffusion/)
 2. ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.16212)
 3. TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2503.11423)
