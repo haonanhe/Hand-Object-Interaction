@@ -110,4 +110,5 @@ Collections of  papers and codes of hand-object interaction (HOI).
 1. HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2412.13187) [[Code]](https://github.com/Kami-code/HandsOnVLM-release) [[Project Page]](https://www.chenbao.tech/handsonvlm/)
 
 ## Human Hand to Robotics Manipulation
-1. Object-Centric Dexterous Manipulation from Human Motion Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2411.04005) [[Code]](https://github.com/cypypccpy/ObjDexEnvs) [[Project Page]](https://cypypccpy.github.io/obj-dex.github.io/)
+1. MimicPlay: Long-Horizon Imitation Learning by Watching Human Play. [CoRL 2023] [[Paper]](https://arxiv.org/pdf/2302.12422) [[Code]](https://github.com/j96w/MimicPlay) [[Project Page]](https://mimic-play.github.io/)
+2. Object-Centric Dexterous Manipulation from Human Motion Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2411.04005) [[Code]](https://github.com/cypypccpy/ObjDexEnvs) [[Project Page]](https://cypypccpy.github.io/obj-dex.github.io/)
