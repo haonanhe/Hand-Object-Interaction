@@ -109,6 +109,14 @@ Collections of  papers and codes of hand-object interaction (HOI).
 ## HOI Prediction
 1. HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2412.13187) [[Code]](https://github.com/Kami-code/HandsOnVLM-release) [[Project Page]](https://www.chenbao.tech/handsonvlm/)
 
-## Human Hand to Robotics Manipulation
-1. MimicPlay: Long-Horizon Imitation Learning by Watching Human Play. [CoRL 2023] [[Paper]](https://arxiv.org/pdf/2302.12422) [[Code]](https://github.com/j96w/MimicPlay) [[Project Page]](https://mimic-play.github.io/)
-2. Object-Centric Dexterous Manipulation from Human Motion Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2411.04005) [[Code]](https://github.com/cypypccpy/ObjDexEnvs) [[Project Page]](https://cypypccpy.github.io/obj-dex.github.io/)
+## Human to Robotics
+1. Human-to-Robot Imitation in the Wild. [RSS 2022] [[Paper]](https://arxiv.org/pdf/2207.09450) [[Project Page]](https://human2robot.github.io/)
+2. MimicPlay: Long-Horizon Imitation Learning by Watching Human Play. [CoRL 2023] [[Paper]](https://arxiv.org/pdf/2302.12422) [[Code]](https://github.com/j96w/MimicPlay) [[Project Page]](https://mimic-play.github.io/)
+3. Object-Centric Dexterous Manipulation from Human Motion Data. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2411.04005) [[Code]](https://github.com/cypypccpy/ObjDexEnvs) [[Project Page]](https://cypypccpy.github.io/obj-dex.github.io/)
+4. OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation. [CoRL 2024] [[Paper]](https://arxiv.org/pdf/2410.11792) [[Project Page]](https://ut-austin-rpl.github.io/OKAMI/)
+5. Bridging the Human to Robot Dexterity Gap through Object-Oriented Rewards. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2410.23289) [[Code]](https://github.com/irmakguzey/object-rewards/tree/main) [[Project Page]](https://object-rewards.github.io/)
+6. VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2410.08792) [[Code]](https://github.com/ai4ce/SeeDo) [[Project Page]](https://ai4ce.github.io/SeeDo/)
+7. Humanoid Policy ∼ Human Policy. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2503.13441) [[Code]](https://github.com/RogerQi/human-policy) [[Project Page]](https://human-as-robot.github.io/)
+8. Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2502.20382) [[Project Page]](https://lujieyang.github.io/physicsgen/)
+
+[arxiv 2025] [Paper] [Code] [Project Page]
