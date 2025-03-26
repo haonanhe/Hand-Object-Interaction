@@ -13,7 +13,7 @@ Collections of  papers and codes of hand-object interaction (HOI).
 * [HOI Augmentation](#hoi-augmentation)
 * [HOI Reenactment](#hoi-reenactment)
 * [HOI Prediction](#hoi-prediction)
-* [Human Hand to Robotics Manipulation](#human-hand-to-robotics-manipulation)
+* [Human to Robotics](#human-to-robotics)
 
 
 ## HOI Dataset
