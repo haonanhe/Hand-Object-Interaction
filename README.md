@@ -31,8 +31,9 @@ Collections of  papers and codes of hand-object interaction (HOI).
 12. ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation. [3DV 2024 Oral] [[Paper]](https://arxiv.org/pdf/2305.01618) [[Project Page]](https://zehaozhu.github.io/ContactArt/)
 13. GraspXL: Generating Grasping Motions for Diverse Objects at Scale. [ECCV 2024] [[Paper]](https://arxiv.org/pdf/2403.19649) [[Code]](https://github.com/zdchan/GraspXL) [[Project Page]](https://eth-ait.github.io/graspxl/)
 14. SemGrasp: Semantic Grasp Generation via Language Aligned Discretization. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2404.03590) [[Project Page]](https://kailinli.github.io/SemGrasp/)
-15. Introducing hot3d: An egocentric dataset for 3d hand and object tracking. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.19167) [[Code]](https://github.com/facebookresearch/hot3d) [[Project Page]](https://facebookresearch.github.io/hot3d/)
-16. GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.04244)
+15. TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding. [CVPR 2024] [[Paper]](https://arxiv.org/pdf/2401.08399) [[Code]](https://github.com/leolyliu/TACO-Instructions) [[Project Page]](https://taco2024.github.io/)
+16. Introducing hot3d: An egocentric dataset for 3d hand and object tracking. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2411.19167) [[Code]](https://github.com/facebookresearch/hot3d) [[Project Page]](https://facebookresearch.github.io/hot3d/)
+17. GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities. [CVPR 2025] [[Paper]](https://arxiv.org/pdf/2412.04244)
 
 ## Dexterous Dataset
 1. DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation. [ICRA 2023] [[Paper]](https://arxiv.org/pdf/2210.02697) [[Code]](https://github.com/PKU-EPIC/DexGraspNet) [[Project Page]](https://pku-epic.github.io/DexGraspNet/)
