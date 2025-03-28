@@ -117,7 +117,9 @@ Collections of  papers and codes of hand-object interaction (HOI).
 4. OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation. [CoRL 2024] [[Paper]](https://arxiv.org/pdf/2410.11792) [[Project Page]](https://ut-austin-rpl.github.io/OKAMI/)
 5. Bridging the Human to Robot Dexterity Gap through Object-Oriented Rewards. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2410.23289) [[Code]](https://github.com/irmakguzey/object-rewards/tree/main) [[Project Page]](https://object-rewards.github.io/)
 6. VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2410.08792) [[Code]](https://github.com/ai4ce/SeeDo) [[Project Page]](https://ai4ce.github.io/SeeDo/)
-7. Humanoid Policy ∼ Human Policy. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2503.13441) [[Code]](https://github.com/RogerQi/human-policy) [[Project Page]](https://human-as-robot.github.io/)
-8. Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2502.20382) [[Project Page]](https://lujieyang.github.io/physicsgen/)
+7. ORION: Vision-based Manipulation from Single Human Video with Open-World Object Graphs. [arxiv 2024] [[Paper]](https://arxiv.org/pdf/2405.20321) [[Project Page]](https://ut-austin-rpl.github.io/ORION-release/)
+8. Hand-Object Interaction Pretraining from Videos. [ICRA 2025] [[Paper]](https://hgaurav2k.github.io/hop/web_assets/manuscript.pdf) [[Code]](https://github.com/hgaurav2k/hop) [[Project Page]](https://hgaurav2k.github.io/hop/)
+9. Humanoid Policy ∼ Human Policy. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2503.13441) [[Code]](https://github.com/RogerQi/human-policy) [[Project Page]](https://human-as-robot.github.io/)
+10. Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2502.20382) [[Project Page]](https://lujieyang.github.io/physicsgen/)
 
 [arxiv 2025] [Paper] [Code] [Project Page]
