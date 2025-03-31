@@ -121,5 +121,6 @@ Collections of  papers and codes of hand-object interaction (HOI).
 8. Hand-Object Interaction Pretraining from Videos. [ICRA 2025] [[Paper]](https://hgaurav2k.github.io/hop/web_assets/manuscript.pdf) [[Code]](https://github.com/hgaurav2k/hop) [[Project Page]](https://hgaurav2k.github.io/hop/)
 9. Humanoid Policy ∼ Human Policy. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2503.13441) [[Code]](https://github.com/RogerQi/human-policy) [[Project Page]](https://human-as-robot.github.io/)
 10. Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2502.20382) [[Project Page]](https://lujieyang.github.io/physicsgen/)
+11. EgoMimic: Scaling Imitation Learning via Egocentric Video. [arxiv 2025] [[Paper]](https://arxiv.org/pdf/2410.24221) [[Code]](https://github.com/SimarKareer/EgoMimic) [[Project Page]](https://egomimic.github.io/)
 
 [arxiv 2025] [Paper] [Code] [Project Page]
